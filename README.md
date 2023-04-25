@@ -1,12 +1,22 @@
 # Proyecto-I-Mecatronica
 
 ## Manufactura: 
-![Aquí la descripción de la imagen por si no carga]
-(https://github.com/alanmr01/Proyecto-I-Mecatronica/blob/aa7967c51a36539d1bd36564d4a2d56190df7544/Photos/Cadena.jpg)
+
+Para la fabricacion de las articulaciones de los dedos, se utilizó una cadena de bicicleta generica:
 
 <div>
 <p style = 'text-align:center;'>
-<img src="Photos/Cadena.jpg" width="700px">
+<img src="Photos/Cadena.jpg" width="500px">
 </p>
 </div>
+
+Para separar los eslabones de la cadena en medidas regulares para los dedos, se utilizó la siguiente herramienta (corta cadenas):
+
+<div>
+<p style = 'text-align:center;'>
+<img src="Photos/Herramienta.jpg" width="500px">
+</p>
+</div>
+
+
 ## Programación en Arduino:
