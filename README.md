@@ -3,4 +3,4 @@
 ## Manufactura: 
 
 
-## Programacion en Arduino:
+## Programación en Arduino:
