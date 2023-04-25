@@ -2,7 +2,7 @@
 
 ## Manufactura: 
 
-Para la fabricacion de las articulaciones de los dedos, se utilizó una cadena de bicicleta generica:
+Para la fabricacion de las articulaciones de los dedos, se utilizó una cadena genérica de bicicleta:
 
 <div>
 <p style = 'text-align:center;'>
