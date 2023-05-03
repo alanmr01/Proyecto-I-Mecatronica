@@ -29,22 +29,22 @@ Para separar los eslabones de la cadena en medidas regulares para los dedos, se 
 
 Servo servomotor;  // Nombrar el servo
 
-int pinServo = 9;     // Definir el n° de pin del servo
+int pinServo = 9;     // Definir el pin de señal para el servo
 int angulo=100;       // Definir un angulo inicial en el servo
-int pinPulsador1 = 8; // Definir el n° de pin del pulsador
-int Pulsador1 = 0;    // Definir el estado inicial del pulsador
+int pinPulsador1 = 8; // Definir el pin de señal para el pulsador
+int Pulsador1 = 0;    // Definir el estado inicial en el pulsador
   
 void setup()
 {
   pinMode(LED_BUILTIN, OUTPUT);
   servomotor.attach(pinServo);  // Definir el pin de donde el servo recibirá la señal
-  pinMode(pinPulsador1,INPUT);  // Definir el pin del pulsador como entrada de señal
+  pinMode(pinPulsador1,INPUT);  // Definir como entrada de señal el pin definido para el pulsador
   servomotor.write(angulo);     // Posicionar el servo en el ángulo inicial
 }
 
 void loop()
 {
-  Pulsador1 = digitalRead(pinPulsador1); // Leer el estado del pulsador
+  Pulsador1 = digitalRead(pinPulsador1); // Leer el estado en el pulsador
   if(Pulsador1 == HIGH){                 // Si está sin pulsar:
     angulo=100;                          // Mantiene/vuelve al ángulo inicial
   }
