@@ -8,7 +8,7 @@ Para la fabricación de las articulaciones de los dedos, se utilizó una cadena 
 
 <div>
 <p style = 'text-align:center;'>
-<img src="Photos/Cadena.jpg" width="500px">
+<img src="Photos/Cadena.jpg" width="400px">
 </p>
 </div>
 
@@ -16,17 +16,73 @@ Como base para la muñeca de la mano, se utilizó un resorte de tracción lineal
 
 <div>
 <p style = 'text-align:center;'>
-<img src="Photos/Resorte.jpg" width="500px">
+<img src="Photos/Resorte.jpg" width="300px">
 </p>
 </div>
 
-### Componentes:
+Como base de los demas componentes se utilizo cartón compacto gris:
+
+<div>
+<p style = 'text-align:center;'>
+<img src="Photos/Carton.jpg" width="300px">
+</p>
+</div>
+
+
+Para articular los dedos, se utilizan tuercas y tornillos:
+
+<div>
+<p style = 'text-align:center;'>
+<img src="Photos/Tornillos.jpg" width="300px">
+</p>
+</div>
+
+Se utilizan gomas elásticas para movilizar los dedos a una posición inicial:
+
+<div>
+<p style = 'text-align:center;'>
+<img src="Photos/Elasticos.jpg" width="300px">
+</p>
+</div>
+
+Para la union de componentes, se utilizó principalmente cinta aislante eléctrica:
+<div>
+<p style = 'text-align:center;'>
+<img src="Photos/Cinta.jpg" width="300px">
+</p>
+</div>
+
+### Componentes electrónicos:
 
 Para el accionamiento de la mano, se utiliza un microservomotor MG90 de engranajes plásticos:
 
 <div>
 <p style = 'text-align:center;'>
-<img src="Photos/Servo.jpg" width="500px">
+<img src="Photos/Servo.jpg" width="400px">
+</p>
+</div>
+
+Para accionar el servomotor, se utiliza un pulsador se tamaño pequeño:
+
+<div>
+<p style = 'text-align:center;'>
+<img src="Photos/Pulsador.jpg" width="300px">
+</p>
+</div>
+
+Para la alimentación eléctrica del Arduino UNO, se utilizan 6 pilas AA recargables montadas sobre un portapilas, entregando aproximadamente 7.8 V:
+
+<div>
+<p style = 'text-align:center;'>
+<img src="Photos/Pilas.jpg" width="300px">
+</p>
+</div>
+
+Para cableado que requiera soldadura, se utilizó cable de audio duplex calibre 12:
+
+<div>
+<p style = 'text-align:center;'>
+<img src="Photos/CableAudio.jpg" width="300px">
 </p>
 </div>
 
@@ -54,7 +110,7 @@ Dividir la cadena en 5 partes de similar tamaño, en este caso, se hicieron con 
 
 <div>
 <p style = 'text-align:center;'>
-<img src="Photos/Dedos.jpg" width="500px">
+<img src="Photos/Dedos.jpg" width="400px">
 </p>
 <div>
 
@@ -62,7 +118,7 @@ Dado que todos los eslabones de la cadena son partes móviles, se hace necesario
 
 <div>
 <p style = 'text-align:center;'>
-<img src="Photos/Dedos.jpg" width="500px">
+<img src="Photos/Dedos.jpg" width="400px">
 </p>
 <div>
 
@@ -70,14 +126,32 @@ Se ensabambla la base de cartón rígido con el interior del resorte, adhiriendo
 
 <div>
 <p style = 'text-align:center;'>
-<img src="Photos/ManoPt1.jpg" width="500px">
+<img src="Photos/ManoPt1.jpg" width="400px">
 </p>
 <div>
 
+Para evitar desensambles entre los dedos y la base, se aseguran los dedos con cinta aislante: 
+<div>
+<p style = 'text-align:center;'>
+<img src="Photos/Encintado.jpg" width="400px">
+</p>
+<div>
 
+Se utilizan gomas elásticas entre los eslabones de cadena a articular para permitir el regreso a su posición inicial. Estos van unidos a los tornillos encajados en los eslabones y fijados a traves de tuercas:
 
+<div>
+<p style = 'text-align:center;'>
+<img src="Photos/Art1.jpg" width="400px">
+</p>
+<div>
 
+Las fijaciones entre tornillo, tuerca y goma elástica se realizó de la siguiente forma:
 
+<div>
+<p style = 'text-align:center;'>
+<img src="Photos/Art2.jpg" width="400px">
+</p>
+<div>
 
 
 ## Programación en Arduino:
