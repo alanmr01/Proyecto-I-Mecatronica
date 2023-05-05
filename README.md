@@ -58,7 +58,7 @@ Para el accionamiento de la mano, se utiliza un microservomotor MG90 de engranaj
 
 <div>
 <p style = 'text-align:center;'>
-<img src="Photos/Servo.jpg" width="400px">
+<img src="Photos/Servo.jpg" width="300px">
 </p>
 </div>
 
@@ -88,11 +88,11 @@ Para cableado que requiera soldadura, se utilizó cable de audio duplex calibre 
 
 ### Herramientas:
 
-Para separar los eslabones de la cadena en medidas regulares para los dedos, se utilizó la siguiente herramienta (corta cadenas):
+Para separar los eslabones de la cadena en medidas regulares para los dedos, se utilizó una herramienta corta cadenas:
 
 <div>
 <p style = 'text-align:center;'>
-<img src="Photos/Herramienta.jpg" width="500px">
+<img src="Photos/Herramienta.jpg" width="300px">
 </p>
 </div>
 
@@ -100,7 +100,7 @@ Para el pegado de los componentes, se utilizó silicona caliente suministrada me
 
 <div>
 <p style = 'text-align:center;'>
-<img src="Photos/Silicona.jpg" width="500px">
+<img src="Photos/Silicona.jpg" width="300px">
 </p>
 </div>
 
@@ -137,7 +137,7 @@ Para evitar desensambles entre los dedos y la base, se aseguran los dedos con ci
 </p>
 <div>
 
-Se utilizan gomas elásticas entre los eslabones de cadena a articular para permitir el regreso a su posición inicial. Estos van unidos a los tornillos encajados en los eslabones y fijados a traves de tuercas:
+Se utilizan gomas elásticas entre los eslabones de cadena a articular para permitir el regreso a su posición inicial. Estos van unidos a los tornillos encajados en los eslabones y fijados a través de tuercas:
 
 <div>
 <p style = 'text-align:center;'>
@@ -145,7 +145,7 @@ Se utilizan gomas elásticas entre los eslabones de cadena a articular para perm
 </p>
 <div>
 
-Las fijaciones entre tornillo, tuerca y goma elástica se realizó de la siguiente forma:
+Las fijaciones entre tornillo, tuerca y goma elástica se realizaron de la siguiente forma:
 
 <div>
 <p style = 'text-align:center;'>
