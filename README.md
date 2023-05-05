@@ -118,7 +118,7 @@ Dado que todos los eslabones de la cadena son partes móviles, se hace necesario
 
 <div>
 <p style = 'text-align:center;'>
-<img src="Photos/Dedos.jpg" width="400px">
+<img src="Photos/DedosR.jpg" width="400px">
 </p>
 <div>
 
