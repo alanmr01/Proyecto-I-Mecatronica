@@ -86,6 +86,14 @@ Para cableado que requiera soldadura, se utilizó cable de audio duplex calibre 
 </p>
 </div>
 
+Para cableados directos entre componentes y Arduino, se utilizaron cables Dupont:
+
+<div>
+<p style = 'text-align:center;'>
+<img src="Photos/Dupont.jpg" width="300px">
+</p>
+</div>
+
 ### Herramientas:
 
 Para separar los eslabones de la cadena en medidas regulares para los dedos, se utilizó una herramienta corta cadenas:
