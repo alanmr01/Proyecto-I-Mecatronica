@@ -215,7 +215,7 @@ Las conexiones del Arduino se realizan según el siguiente diagrama:
   
 <div>
 <p style = 'text-align:center;'>
-<img src="Photos/Circuito.jpg" width="400px">
+<img src="Photos/Circuito.png" width="400px">
 </p>
 <div>  
 
