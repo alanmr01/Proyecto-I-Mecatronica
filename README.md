@@ -1,5 +1,21 @@
 # Proyecto-I-Mecatrónica
 
+## Prototipo Realizado
+
+Se realizó un prototipo de mano mecatrónica accionada mediante un pulsador que controla un servomotor:
+
+<div>
+<p style = 'text-align:center;'>
+<img src="Photos/Prototipo.jpg" width="400px">
+</p>
+<div>
+
+## Inspiración
+
+El prototipo de mano mecatrónica está basado en el diseño del objeto "The Gunslinger" del videojuego Team Fortress 2:
+
+[![Gunslinger](https://img.youtube.com/vi/my6TfPgCKaU/0.jpg)](https://www.youtube.com/watch?v=my6TfPgCKaU)
+
 ## Fabricación: 
 
 ### Materiales:
@@ -281,7 +297,7 @@ El codigo en C++ utilizado fue el siguiente:
 Servo servomotor;  // Nombrar el servo
 
 int pinServo = 9;     // Definir el pin de señal para el servo
-int angulo=100;       // Definir un angulo inicial en el servo
+int angulo=170;       // Definir un angulo inicial en el servo
 int pinPulsador1 = 8; // Definir el pin de señal para el pulsador
 int Pulsador1 = 0;    // Definir el estado inicial en el pulsador
   
@@ -297,10 +313,10 @@ void loop()
 {
   Pulsador1 = digitalRead(pinPulsador1); // Leer el estado en el pulsador
   if(Pulsador1 == HIGH){                 // Si está sin pulsar:
-    angulo=100;                          // Mantiene/vuelve al ángulo inicial
+    angulo=170;                          // Mantiene/vuelve al ángulo inicial
   }
   if(Pulsador1 == LOW){                  // Si está pulsado:
-    angulo=20 ;                          // Se define un nuevo angulo deseado
+    angulo=10 ;                          // Se define un nuevo angulo deseado
   }
 servomotor.write(angulo);                // Se posiciona el servo en el angulo definido
 delay(25);                               // Se añade una pequeña latencia para evitar errores
