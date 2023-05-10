@@ -270,6 +270,8 @@ Se une mediante cinta el tronco de cono a la base el resorte haciendo coincidir 
   
 ## Programación en Arduino:
 
+El codigo en C++ utilizado fue el siguiente:
+  
 ```C++
 #include <Servo.h>
 
@@ -304,3 +306,31 @@ servomotor.write(angulo);                // Se posiciona el servo en el angulo d
 delay(25);                               // Se añade una pequeña latencia para evitar errores
 }
 ```
+  
+## Vídeo demostración
+  
+<div class="embed-container">
+    <iframe width="640" height="390" 
+    src="https://youtube.com/shorts/yCg7WOOUdeg" 
+    frameborder="0" allowfullscreen></iframe>
+</div>
+<style>
+.embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+</style>
+  
+
