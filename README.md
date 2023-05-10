@@ -96,7 +96,7 @@ Para separar los eslabones de la cadena en medidas regulares para los dedos, se 
 </p>
 </div>
 
-Para el pegado de los componentes, se utilizó silicona caliente suministrada mediante una pistola dispensadora de tamaño pequeño (potencia de 75 W).
+Para el pegado de los componentes, se utilizó silicona caliente suministrada mediante una pistola dispensadora de tamaño pequeño (potencia de 15 W).
 
 <div>
 <p style = 'text-align:center;'>
