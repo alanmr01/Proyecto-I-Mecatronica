@@ -203,7 +203,7 @@ Se procede a unir los dedos al servomotor mediante hilos, utilizando un pequeño
 </p>
 <div>
   
-El servomotor se fija a la base de cartón procurando mantener la tension de los hilos, la que depende de la posicion deseada para los dedos:
+El servomotor se fija a la base de cartón procurando mantener la tensión de los hilos, la que depende de la posición deseada para los dedos:
   
 <div>
 <p style = 'text-align:center;'>
@@ -211,7 +211,15 @@ El servomotor se fija a la base de cartón procurando mantener la tension de los
 </p>
 <div>
 
-Las conexiones del Arduino se realizan segun el siguiente diagrama:
+Las conexiones del Arduino se realizan según el siguiente diagrama:
+  
+<div>
+<p style = 'text-align:center;'>
+<img src="Photos/Circuito.jpg" width="400px">
+</p>
+<div>  
+
+Las conexiones quedan entonces de la siguiente forma:  
   
 <div>
 <p style = 'text-align:center;'>
@@ -219,7 +227,47 @@ Las conexiones del Arduino se realizan segun el siguiente diagrama:
 </p>
 <div>
 
+Se realiza una caja que contenga tanto el Arduino como la protoboard en una posición fija:
+  
+<div>
+<p style = 'text-align:center;'>
+<img src="Photos/Caja.jpg" width="400px">
+</p>
+<div>
+  
+Se acopla el pulsador a la base del resorte, soldando los bornes al cable de audio:
+  
+<div>
+<p style = 'text-align:center;'>
+<img src="Photos/Soldadura1.jpg" width="400px">
+</p>
+<div>
 
+El otro extremo de los cables de audio van soldados a cables Dupont, los que se adhieren mediante cinta a lo largo del resorte:
+  
+<div>
+<p style = 'text-align:center;'>
+<img src="Photos/Soldadura2.jpg" width="400px">
+</p>
+<div>
+
+Se realizan las paredes de un tronco de cono con diámetro superior 6 cm y diámetro inferior 12 cm, el cual fue pintado con pintura acrilíca de color rojo:
+  
+<div>
+<p style = 'text-align:center;'>
+<img src="Photos/Cono.jpg" width="400px">
+</p>
+<div>
+  
+Se une mediante cinta el tronco de cono a la base el resorte haciendo coincidir ambos ejes, quedando entonces el prototipo de la siguiente forma:
+  
+<div>
+<p style = 'text-align:center;'>
+<img src="Photos/Prototipo.jpg" width="400px">
+</p>
+<div>
+ 
+  
 ## Programación en Arduino:
 
 ```C++
