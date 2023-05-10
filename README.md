@@ -10,7 +10,7 @@ Se realizó un prototipo de mano mecatrónica controlada mediante un pulsador qu
 </p>
 <div>
 
-## Inspiración
+## Inspiración:
 
 El prototipo de mano mecatrónica está basado en el diseño del objeto "The Gunslinger" del videojuego Team Fortress 2:
 
