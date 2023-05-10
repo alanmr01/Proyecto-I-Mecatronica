@@ -37,6 +37,14 @@ Para articular los dedos, se utilizan tuercas y tornillos:
 </p>
 </div>
 
+Se utilizó hilo para unir los dedos al servomotor:
+
+<div>
+<p style = 'text-align:center;'>
+<img src="Photos/Hilo.jpg" width="300px">
+</p>
+</div>
+
 Se utilizan gomas elásticas para movilizar los dedos a una posición inicial:
 
 <div>
@@ -53,6 +61,14 @@ Para la union de componentes, se utilizó principalmente cinta aislante eléctri
 </div>
 
 ### Componentes electrónicos:
+
+Como controlador, se utilizó una placa Arduino UNO:
+
+<div>
+<p style = 'text-align:center;'>
+<img src="Photos/ArduinoUNO.jpg" width="300px">
+</p>
+</div>
 
 Para el accionamiento de la mano, se utiliza un microservomotor MG90 de engranajes plásticos:
 
@@ -75,6 +91,22 @@ Para la alimentación eléctrica del Arduino UNO, se utilizan 6 pilas AA recarga
 <div>
 <p style = 'text-align:center;'>
 <img src="Photos/Pilas.jpg" width="300px">
+</p>
+</div>
+
+Se utilizó una resistencia electrica de 1 kOhm:
+
+<div>
+<p style = 'text-align:center;'>
+<img src="Photos/Resistencia.jpg" width="300px">
+</p>
+</div>
+
+Se utilizó una mini protoboard de 170 pines:
+
+<div>
+<p style = 'text-align:center;'>
+<img src="Photos/Protoboard.jpg" width="300px">
 </p>
 </div>
 
@@ -111,6 +143,8 @@ Para el pegado de los componentes, se utilizó silicona caliente suministrada me
 <img src="Photos/Silicona.jpg" width="300px">
 </p>
 </div>
+
+Se utilizó además un cautín de 25 W y su respectiva soldadura de estaño-plomo.
 
 ### Procedimiento:
 
@@ -158,6 +192,30 @@ Las fijaciones entre tornillo, tuerca y goma elástica se realizaron de la sigui
 <div>
 <p style = 'text-align:center;'>
 <img src="Photos/Art2.jpg" width="400px">
+</p>
+<div>
+  
+Se procede a unir los dedos al servomotor mediante hilos, utilizando un pequeño tubo de plastico a modo de guia adherido en la palma de la mano:
+  
+<div>
+<p style = 'text-align:center;'>
+<img src="Photos/Hilos.jpg" width="400px">
+</p>
+<div>
+  
+El servomotor se fija a la base de cartón procurando mantener la tension de los hilos, la que depende de la posicion deseada para los dedos:
+  
+<div>
+<p style = 'text-align:center;'>
+<img src="Photos/ManoPt2.jpg" width="400px">
+</p>
+<div>
+
+Las conexiones del Arduino se realizan segun el siguiente diagrama:
+  
+<div>
+<p style = 'text-align:center;'>
+<img src="Photos/Conexiones.jpg" width="400px">
 </p>
 <div>
 
