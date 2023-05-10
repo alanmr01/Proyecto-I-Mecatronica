@@ -333,5 +333,5 @@ delay(25);                               // Se añade una pequeña latencia para
 }
 </style>
  
-[![Video](https://img.youtube.com/vi/yCg7WOOUdeg/0.jpg)(https://youtube.com/shorts/yCg7WOOUdeg)
+[![Video](https://img.youtube.com/vi/yCg7WOOUdeg/0.jpg)](https://youtube.com/shorts/yCg7WOOUdeg)
 
