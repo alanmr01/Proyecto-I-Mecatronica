@@ -2,7 +2,7 @@
 
 ## Prototipo Realizado
 
-Se realizó un prototipo de mano mecatrónica accionada mediante un pulsador que controla un servomotor:
+Se realizó un prototipo de mano mecatrónica controlada mediante un pulsador que acciona un servomotor:
 
 <div>
 <p style = 'text-align:center;'>
