@@ -78,7 +78,7 @@ Para la union de componentes, se utilizó principalmente cinta aislante eléctri
 
 ### Componentes electrónicos:
 
-Como controlador, se utilizó una placa Arduino UNO:
+Como placa de desarrollo, se utilizó una placa Arduino UNO:
 
 <div>
 <p style = 'text-align:center;'>
