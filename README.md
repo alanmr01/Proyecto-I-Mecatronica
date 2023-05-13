@@ -172,7 +172,7 @@ Dividir la cadena en 5 partes de similar tamaño, en este caso, se hicieron con 
 </p>
 <div>
 
-Dado que todos los eslabones de la cadena son partes móviles, se hace necesario volver rígidos aquellos que no requieran moverse. Para ello, es posible fijar los eslabones inmóviles con algún material que los sostengan, utilizar pegamento para fijar los ejes, o siguiendo la metodología utilizada en este proyecto, convertir el eje de cada eslabón en un pasador fijo golpeando cada eje con un martillo hasta que llegue al tope el eslabon, realizando entonces ajuste mecánico impidiendo el movimiento. En la siguiente imagen se muestran los únicos ejes que no fueron endurecidos, a fin de que estos actuen como articulaciones de la mano:
+Dado que todos los eslabones de la cadena son partes móviles, se hace necesario volver rígidos aquellos que no requieran moverse. Para ello, es posible fijar los eslabones inmóviles con algún material que los sostengan, utilizar pegamento para fijar los ejes, o siguiendo la metodología utilizada en este proyecto, convertir el eje de cada eslabón en un pasador fijo golpeando cada eje con un martillo hasta que llegue al tope el eslabón, realizando entonces ajuste mecánico impidiendo el movimiento. En la siguiente imagen se muestran los únicos ejes que no fueron endurecidos, a fin de que estos actuen como articulaciones de la mano:
 
 <div>
 <p style = 'text-align:center;'>
