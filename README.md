@@ -28,7 +28,7 @@ Para la fabricación de las articulaciones de los dedos, se utilizó una cadena 
 </p>
 </div>
 
-Como base para la muñeca de la mano, se utilizó un resorte de tracción lineal (Zugfedern), con largo 17 cm, diámetro interno 2 cm y diámetro externo 2.5 cm:
+Como base para la muñeca de la mano, se utilizó un resorte de tracción lineal (Zugfedern), con largo 17 cm, diámetro interno 1.6 cm y diámetro externo 2 cm:
 
 <div>
 <p style = 'text-align:center;'>
