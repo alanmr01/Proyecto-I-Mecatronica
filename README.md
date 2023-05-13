@@ -267,7 +267,7 @@ El otro extremo de los cables de audio van soldados a cables Dupont, los que se 
 </p>
 <div>
 
-Se realizan las paredes de un tronco de cono con diámetro superior 6 cm y diámetro inferior 12 cm, el cual fue pintado con pintura acrilíca de color rojo:
+Se realiza con cartón forrado las paredes de un tronco de cono con diámetro superior 6 cm y diámetro inferior 12 cm, el cual fue pintado con pintura acrilíca de color rojo:
   
 <div>
 <p style = 'text-align:center;'>
