@@ -243,7 +243,7 @@ Las conexiones quedan entonces de la siguiente forma:
 </p>
 <div>
 
-Se realiza una caja que contenga tanto el Arduino como la protoboard en una posición fija:
+Se realiza una caja de cartón forrado que contenga tanto el Arduino como la protoboard en una posición fija:
   
 <div>
 <p style = 'text-align:center;'>
