@@ -10,15 +10,15 @@ Se realizó un prototipo de mano mecatrónica controlada mediante un pulsador qu
 </p>
 <div>
 
-## Inspiración:
+## Inspiración
 
 El prototipo de mano mecatrónica está basado en el diseño del objeto "The Gunslinger" del videojuego Team Fortress 2:
 
 [![Gunslinger](https://img.youtube.com/vi/my6TfPgCKaU/0.jpg)](https://www.youtube.com/watch?v=my6TfPgCKaU)
 
-## Fabricación: 
-
-### Materiales:
+## Fabricación
+  
+### Materiales
 
 Para la fabricación de las articulaciones de los dedos, se utilizó una cadena genérica de bicicleta:
 
@@ -142,7 +142,7 @@ Para cableados directos entre componentes y Arduino, se utilizaron cables Dupont
 </p>
 </div>
 
-### Herramientas:
+### Herramientas
 
 Para separar los eslabones de la cadena en medidas regulares para los dedos, se utilizó una herramienta corta cadenas:
 
@@ -162,7 +162,7 @@ Para el pegado de los componentes, se utilizó silicona caliente suministrada me
 
 Se utilizó además un cautín de 25 W y su respectiva soldadura de estaño-plomo.
 
-### Procedimiento:
+### Procedimiento
 
 Dividir la cadena en 5 partes de similar tamaño, en este caso, se hicieron con dedos cercanos a 16 cm. 
 
@@ -284,7 +284,7 @@ Se une mediante cinta el tronco de cono a la base el resorte haciendo coincidir 
 <div>
  
   
-## Programación en Arduino:
+## Programación en Arduino
 
 El codigo en C++ utilizado fue el siguiente:
   
