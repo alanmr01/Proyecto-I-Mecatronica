@@ -102,7 +102,7 @@ Para accionar el servomotor, se utiliza un pulsador se tamaño pequeño:
 </p>
 </div>
 
-Para la alimentación eléctrica del Arduino UNO, se utilizan 6 pilas AA recargables montadas sobre un portapilas, entregando aproximadamente 7.8 V:
+Para la alimentación eléctrica del Arduino UNO, se utilizan 6 pilas AA recargables NiMh 1.2V, montadas sobre un portapilas, entregando aproximadamente 7.8 V:
 
 <div>
 <p style = 'text-align:center;'>
