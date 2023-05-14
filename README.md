@@ -69,14 +69,14 @@ Se utilizan gomas elásticas para movilizar los dedos a una posición inicial:
 </p>
 </div>
 
-Para la union de componentes, se utilizó principalmente cinta aislante eléctrica:
+Para la unión de componentes, se utilizó principalmente cinta aislante eléctrica:
 <div>
 <p style = 'text-align:center;'>
 <img src="Photos/Cinta.jpg" width="300px">
 </p>
 </div>
 
-### Componentes electrónicos:
+### Componentes electrónicos
 
 Como placa de desarrollo, se utilizó una placa Arduino UNO:
 
